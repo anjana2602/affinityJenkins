@@ -45,6 +45,55 @@ def highest_affinity(site_list, user_list, time_list):
 
   sites.sort(key=str.lower)
 
+  x = 1
+  if (x < 1 ) :
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+     print("Dummy Statements")
+
+
+
+
 
 
 
